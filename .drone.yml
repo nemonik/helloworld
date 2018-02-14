@@ -1,0 +1,7 @@
+pipeline:
+  build:
+    image: nemonik/golang:1.9.4
+    commands:
+      - go test
+      - go build
+      - ./hello
