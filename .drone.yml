@@ -1,7 +1,11 @@
 pipeline:
   build:
-    image: nemonik/golang:1.9.4
+    image: 192.168.0.11:5000/nemonik/golang:1.11.2
     commands:
-      - go test
-      - go build
-      - ./hello
+      - make lint
+      - make test
+      - make build
+  run:
+    image: 192.168.0.11:5000/nemonik/golang:1.11.2
+    commands:
+      - make run
