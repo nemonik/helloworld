@@ -10,10 +10,10 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println(HelloWorld())
+        fmt.Println(HelloWorld())
 }
 
-//HelloWorld returns "hello world"
+// HelloWorld returns "hello world"
 func HelloWorld() string {
-	return "hello world"
+        return "hello world"
 }
