@@ -28,5 +28,5 @@ make run
 
 ## License
 
-See LICENCE file
+See [LICENCE file](https://raw.githubusercontent.com/nemonik/helloworld/master/LICENSE)
 
