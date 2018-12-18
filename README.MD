@@ -1,4 +1,4 @@
-# GoLang Helloworld
+# GoLang Helloworld [![Build Status](https://travis-ci.org/nemonik/helloworld.svg?branch=master)](https://travis-ci.org/nemonik/helloworld)
 
 A simple helloworld GoLang app.
 
@@ -25,10 +25,6 @@ make sonar
 ```
 make run
 ```
-
-### Travis CI
-
-[See build logs here](https://travis-ci.org/nemonik/helloworld)
 
 ## License
 
