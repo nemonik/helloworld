@@ -26,6 +26,10 @@ make sonar
 make run
 ```
 
+### Travis CI
+
+[See build logs here](https://travis-ci.org/nemonik/helloworld)
+
 ## License
 
 See LICENCE file
