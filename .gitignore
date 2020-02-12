@@ -1,8 +1,10 @@
 # OS-specific
 .DS_Store
 
-*.xml
-
-helloworld
-
+# reports
 .scannerwork
+*.out
+*.json
+
+# binary
+helloworld
